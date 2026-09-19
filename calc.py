@@ -1,9 +1,10 @@
 # Simple Calculator
-#This is to show stash
 
 def add(a, b):
     return a + b
 
+def power(a, b):
+    return a * b
 
 def multiply(a, b):
     return a * b
